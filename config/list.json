@@ -1,0 +1,23 @@
+{
+  "items" : [
+    {
+      "title" : "主干",
+      "content" : "debug 测试",
+      "url" : "http://192.168.1.179/packages/Result/IOS_INTRANET_PUBLISH/13/2/inhouse/Unity-iPhone.ipa",
+      "mainfestUrl" : "https://raw.githubusercontent.com/RenXiaozhu/InstallDoc/master/manifest/RC/manifest.plist",
+      "gamename" : "NGame",
+      "gameid" : "1",
+      "version" : "1.0.1"
+    },
+    {
+      "title" : "Beta版",
+      "content" : "外网第三次删档测试",
+      "url" : "http://192.168.1.179:8080/packages/Result/N7_IOS_INTRANET_PUBLISH/13/2/inhouse/Unity-iPhone.ipa",
+      "mainfestUrl" : "https://raw.githubusercontent.com/RenXiaozhu/InstallDoc/master/manifest/RC/manifest.plist",
+      "gamename" : "NGame_beta",
+      "gameid" : "2",
+      "version" : "1.0.1"
+    }
+
+  ]
+}
